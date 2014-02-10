@@ -3,6 +3,6 @@
   <display-name>testapp</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
-    <!-- test -->
+    <!-- changed web.xml as rwj-org admin -->
   </welcome-file-list>
 </web-app>
