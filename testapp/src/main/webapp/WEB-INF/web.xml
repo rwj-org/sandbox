@@ -4,5 +4,6 @@
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <!-- changed web.xml as rwj-org admin -->
+    <!-- changed web.xml as rwjsoftware -->
   </welcome-file-list>
 </web-app>
